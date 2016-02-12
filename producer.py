@@ -28,7 +28,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     # cycle to read commands
-    while true:
+    while True:
 
         try:
             # read desired commands
